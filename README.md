@@ -9,18 +9,6 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 
 # 👍 Awesome! How and What can I Contribute? 
 It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
-1. Fork this repository by clicking the Fork button on the top right corner of this page or simply [click here](https://github.com/anupkafle/Hacktoberfest_2022/fork).
-2. Create a new file and **add** a new Program in any programming language like C++, Java, Python, etc. (Note![HacktoberFest 2022](./assets/logo-light.png#gh-dark-mode-only)
-![HacktoberFest 2022](./assets/logo-dark.png#gh-light-mode-only)
-
-# HacktoberFest 2022
-
-A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
-
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
-
-# 👍 Awesome! How and What can I Contribute? 
-It's very easy. Follow the below steps you need to create your -(maybe)- EXAMPLE first pull request.
 1. Fork this repository by clicking the Fork button on the top right corner of this page or simply [click here](https://github.com/theutpal01/HacktoberFest2022/fork).
 2. Create a new file and **add** a new Program in any programming language like C++, Java, Python, etc. (Note: No duplicate programs can exist!)
 4. After adding the code, Commit your changes.
