@@ -1,8 +1,5 @@
 import sys
-
 import random
-
-
 def define_coOrdinator():
 
     '''
