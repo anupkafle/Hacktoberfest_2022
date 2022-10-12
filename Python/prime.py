@@ -1,4 +1,4 @@
-#program to checkk prime number using flag
+#program to checkk prime number using flag.
 number = int(input("Enter a number: "))
 
 # define a flag variable
