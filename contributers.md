@@ -3,3 +3,4 @@
 3. [Sandeep Subedi](https://github.com/sandeepsubedi)
 4. [Rochak Sedai](https://github.com/RochakSedai) 
 5. [Luckey Chaudhary](https://github.com/luckey112) 
+6. [Udatya Deb](https://github.com/UDATYA-DEB)
