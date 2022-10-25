@@ -7,3 +7,4 @@
 7. [Ashlin Dev](https://github.com/Ashlin21dev)
 8. [Ankush Mallick](https://github.com/ankushmallick1100)
 9. [Manav Sanghvi](https://github.com/manav0702)
+10. [Mohammed Amaan Khan](https://github.com/bornengineer)
